@@ -1,4 +1,4 @@
-<div align="center">
+﻿<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:312e81,45:4f46e5,100:7c3aed&height=190&section=header&text=SHAIK%20IRFAN&fontSize=42&fontColor=ffffff&fontAlignY=35&animation=fadeIn" width="100%" alt="Profile Header"/>
 
@@ -26,23 +26,23 @@
   <img src="https://img.shields.io/badge/Email-Contact-6d28d9?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
-<a href="https://github.com/Shaikirfann">
-  <img src="https://img.shields.io/badge/GitHub-Shaikirfann-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<a href="https://github.com/Shaikirfann25">
+  <img src="https://img.shields.io/badge/GitHub-Shaikirfann25-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Shaikirfann&label=PROFILE%20VIEWS&style=for-the-badge&color=6366f1" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=Shaikirfann25&label=PROFILE%20VIEWS&style=for-the-badge&color=6366f1" alt="Profile Views"/>
 
-<img src="https://img.shields.io/github/followers/Shaikirfann?label=FOLLOWERS&style=for-the-badge&logo=github" alt="Followers"/>
+<img src="https://img.shields.io/github/followers/Shaikirfann25?label=FOLLOWERS&style=for-the-badge&logo=github" alt="Followers"/>
 
-<img src="https://img.shields.io/github/stars/Shaikirfann?label=STARS&style=for-the-badge&logo=github" alt="Stars"/>
+<img src="https://img.shields.io/github/stars/Shaikirfann25?label=STARS&style=for-the-badge&logo=github" alt="Stars"/>
 
 </div>
 
 ---
 
-# 👨💻 About Me
+# 👨‍💻 About Me
 
 I am a **Computer Science student specializing in AI & Data Engineering** at **Lovely Professional University**, passionate about building intelligent, scalable, and data-driven applications.
 
@@ -56,11 +56,11 @@ Currently, I am focused on strengthening my expertise in **AI-powered applicatio
 
 ### 🎯 Engineering Focus
 
-`AI & Data Engineering` · `Machine Learning` · `LLMs` · `NLP` · `Data Pipelines` · `REST APIs` · `Data Analytics` · `Backend Development`
+``AI & Data Engineering`` · ``Machine Learning`` · ``LLMs`` · ``NLP`` · ``Data Pipelines`` · ``REST APIs`` · ``Data Analytics`` · ``Backend Development``
 
 ### 🚀 Currently Exploring
 
-`Advanced Machine Learning` · `LLM Applications` · `Data Engineering` · `Scalable AI Systems` · `Cloud Technologies`
+``Advanced Machine Learning`` · ``LLM Applications`` · ``Data Engineering`` · ``Scalable AI Systems`` · ``Cloud Technologies``
 
 ---
 
@@ -145,7 +145,7 @@ Currently, I am focused on strengthening my expertise in **AI-powered applicatio
 
 ### 🛠️ Tech Stack
 
-`Python` · `PostgreSQL` · `SQLAlchemy` · `Streamlit` · `Docker` · `REST APIs`
+``Python`` · ``PostgreSQL`` · ``SQLAlchemy`` · ``Streamlit`` · ``Docker`` · ``REST APIs``
 
 ---
 
@@ -169,7 +169,7 @@ An end-to-end AI news intelligence system designed to collect, process, and visu
 
 ### 🛠️ Stack
 
-`Python` · `PostgreSQL` · `SQLAlchemy` · `Streamlit` · `Docker` · `REST APIs`
+``Python`` · ``PostgreSQL`` · ``SQLAlchemy`` · ``Streamlit`` · ``Docker`` · ``REST APIs``
 
 ---
 
@@ -194,7 +194,7 @@ Full-stack movie recommendation application with an asynchronous backend, intera
 
 ### 🛠️ Stack
 
-`Python` · `FastAPI` · `Streamlit` · `Scikit-learn` · `NLTK` · `Plotly` · `TMDB API`
+``Python`` · ``FastAPI`` · ``Streamlit`` · ``Scikit-learn`` · ``NLTK`` · ``Plotly`` · ``TMDB API``
 
 ---
 
@@ -219,7 +219,7 @@ A data analytics dashboard for analyzing cryptocurrency prices, market trends, v
 
 ### 🛠️ Stack
 
-`Python` · `Flask` · `Pandas` · `Yahoo Finance API` · `Fear & Greed API`
+``Python`` · ``Flask`` · ``Pandas`` · ``Yahoo Finance API`` · ``Fear & Greed API``
 
 ---
 
@@ -284,13 +284,13 @@ Computer Science and Engineering — **AI & Data Engineering**
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Shaikirfann&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Shaikirfann25&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shaikirfann&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shaikirfann25&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shaikirfann&theme=tokyonight&hide_border=true" width="60%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shaikirfann25&theme=tokyonight&hide_border=true" width="60%"/>
 
 </div>
 
@@ -303,17 +303,17 @@ Computer Science and Engineering — **AI & Data Engineering**
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Shaikirfann/Shaikirfann/output/github-snake-dark.svg"
+    srcset="https://raw.githubusercontent.com/Shaikirfann25/shaikirfan/output/github-snake-dark.svg"
   />
 
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/Shaikirfann/Shaikirfann/output/github-snake.svg"
+    srcset="https://raw.githubusercontent.com/Shaikirfann25/shaikirfan/output/github-snake.svg"
   />
 
   <img
     alt="GitHub Contribution Snake"
-    src="https://raw.githubusercontent.com/Shaikirfann/Shaikirfann/output/github-snake.svg"
+    src="https://raw.githubusercontent.com/Shaikirfann25/shaikirfan/output/github-snake.svg"
     width="100%"
   />
 
