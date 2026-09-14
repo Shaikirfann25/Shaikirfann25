@@ -18,7 +18,7 @@
 
 <br/><br/>
 
-<a href="https://www.linkedin.com/in/shaikirfan">
+<a href="https://www.linkedin.com/in/shaikirfan-/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-4f46e5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
